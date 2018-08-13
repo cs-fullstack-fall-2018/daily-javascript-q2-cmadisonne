@@ -35,3 +35,4 @@ B) x === y;t === 33
 C) x == y;t == 33
 
 D) x === y;t == 33
+My Answer Is C.
